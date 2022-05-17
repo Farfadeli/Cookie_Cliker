@@ -1,0 +1,33 @@
+*{margin: 0;}
+html{height: 100%;}
+body{height: 100%;display: flex;}
+.amelioration{
+    height: 100%;
+    width: 20%;
+    background: blue;
+}
+.main{
+    height: 100%;
+    width: 80%;
+    background: rgb(94, 128, 192);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cookie{
+    cursor: pointer;
+    width: 250px;
+    height: 250px;
+}
+.score
+{
+    height: 7.5%;
+    width: 80%;
+    position: absolute;
+    left: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: x-large;
+}
