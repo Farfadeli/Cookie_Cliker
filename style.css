@@ -6,6 +6,18 @@ body{height: 100%;display: flex;}
     width: 20%;
     background: blue;
 }
+.amelioration div
+{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    color: white;
+    border:  white 1px solid;
+}
+.amelioration div button
+{
+    margin-left: auto;
+}
 .main{
     height: 100%;
     width: 80%;
